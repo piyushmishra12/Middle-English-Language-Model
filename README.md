@@ -14,5 +14,6 @@ The cost minimisation is done using stochastic gradient descent.
 <img src = 'sgd.png'>
 
 ### Demonstration
-`cd` into the directory and type `python test.py` to run the program
-<img src = 'demo.gif'>
+`cd` into the directory and type `python test.py` to run the program.
+
+<img width = '850' height = '350' src = 'demo.gif'>
