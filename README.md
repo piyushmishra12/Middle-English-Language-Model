@@ -3,7 +3,7 @@ Middle English was the form of English spoken and written after the conquest of 
 
 - `web_scrape.py` stores the raw text into `text.txt`.
 
-- `train.py` cleans and preprocesses the text, makes a neural network model entirely in numpy, stored the weight matrices and the word index mapping in `chaucer_model`, and trains it on the text.
+- `train.py` cleans and preprocesses the text, makes a neural network model entirely in numpy, stores the weight matrices and the word index mapping in `chaucer_model`, and trains it on the text.
 
 - `test.py` builds a sequence of following words based on the cosine distance with the input word.
 
