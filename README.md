@@ -12,7 +12,8 @@ The neural network used has one hidden layer with 100 nodes. This creates a bott
 <img src= 'nn_eq.png'>
 
 The cost minimisation is done using stochastic gradient descent.
-<img src = 'sgd_corrected.png'>
+
+<img height = '300' width = '500' src = 'sgd_corrected.png'>
 
 The training goes on for 5 epochs after which the cost more or less converges to the optimum value.
 ### Demonstration
