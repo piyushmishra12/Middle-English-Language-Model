@@ -11,7 +11,7 @@ Middle English was the form of English spoken and written after the conquest of 
 The neural network used has one hidden layer with 100 nodes. This creates a bottleneck in the neural network architecture and reduces the number of parameters. The input and output layers have nodes equal to the vocabulary size.
 <img src= 'nn_eq.png'>
 
-The cost minimisation is done using stochastic gradient descent.
+The cost minimization is done using stochastic gradient descent.
 
 <img height = '300' width = '500' src = 'sgd_corrected.png'>
 
